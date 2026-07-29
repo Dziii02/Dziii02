@@ -264,8 +264,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dziii02&layo
 
 </p>
 
-> ⚠️ **Note:** Snake animation tabhi dikhegi jab baad me GitHub Action configure karoge.
-
 ---
 
 # 📂 Repository Highlights
