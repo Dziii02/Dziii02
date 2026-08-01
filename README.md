@@ -273,7 +273,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dziii02&layo
 | 📊 DG Super Store Dashboard | Power BI | ✅ Completed |
 | 🏨 Hotel Cancellation Dashboard | Power BI | ✅ Completed |
 | 🐍 Python Data Cleaning | Python | 🚧 In Progress |
-| 📈 SQL Business Analysis | SQL | 🚧 Coming Soon |
+| 📈 SQL Business Analysis | SQL | ✅ Completed |
 
 ---
 
